@@ -28,6 +28,7 @@ $ # python manage.py runserver 0.0.0.0:<your_port>
 $
 $ # Access the web app in browser: http://127.0.0.1:8000/
 ```
+> Using PostgreSQL: https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
 
 > Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
 
