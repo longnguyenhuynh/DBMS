@@ -23,6 +23,7 @@
 
         iv. Kỹ thuật viên:
             - Thực hiện khôi phục dữ liệu khi hệ thống xảy ra sự cố.
+            - Thực hiện sao lưu dữ liệu định kỳ.
         
     b.
 
