@@ -2,7 +2,7 @@
 
 1. Ứng dụng minh họa:
 
-- Web quản lý ngân hàng (trên framework django)
+- Web quản lý giao dịch của ngân hàng (trên framework django)
 
     a. Người dùng:
     
@@ -10,7 +10,7 @@
             - Có tài khoản để truy cập vào trang web để: 
                 + Kiểm tra thông tin số dư tài khoản.
                 + Thực hiện chuyển tiền trực tuyến
-                + Thay đổi thông tin cá nhân
+                + Xem, thay đổi thông tin cá nhân
             
         ii. Nhân viên ngân hàng:
             - Có tài khoản để truy cập vào trang web:
