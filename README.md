@@ -34,7 +34,5 @@
     b. Thực hành với xử lý truy vấn và tối ưu hóa truy vấn (Tâm)
 
     c. Thực hành sao lưu dữ liệu (An)
-    
-        - PostgreSQL: MVCC – điều khiển tương tranh đa phiên bản – Multi Version Concurrency Control
 
     d. Thực hành phục hồi dữ liệu (Long)
