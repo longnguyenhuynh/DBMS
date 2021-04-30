@@ -36,3 +36,7 @@
     c. Thực hành sao lưu dữ liệu (An)
 
     d. Thực hành phục hồi dữ liệu (Long)
+
+3. Tham khảo:
+
+    a. https://neo4j.com/developer/python-movie-app/
