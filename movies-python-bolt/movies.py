@@ -14,7 +14,7 @@ password = os.getenv("NEO4J_PASSWORD", "movies")
 neo4jVersion = os.getenv("NEO4J_VERSION", "")
 database = os.getenv("NEO4J_DATABASE", "neo4j")
 
-port = os.getenv("PORT", 8080)
+port = os.getenv("PORT", 8888)
 
 driver = GraphDatabase.driver(url, auth=basic_auth(username, password))
 
