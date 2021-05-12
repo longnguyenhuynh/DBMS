@@ -12,7 +12,7 @@ url = os.getenv("NEO4J_URI", "bolt://localhost:7687")
 username = os.getenv("NEO4J_USER", "neo4j")
 password = os.getenv("NEO4J_PASSWORD", "movies")
 neo4jVersion = os.getenv("NEO4J_VERSION", "")
-database = os.getenv("NEO4J_DATABASE", "neo4j")
+database = os.getenv("NEO4J_DATABASE", "movies")
 
 port = os.getenv("PORT", 8888)
 
